@@ -16,11 +16,9 @@ Computer vision system for detecting and tracking jetskis in video streams using
 - Automatic model downloading
 - Dataset validation
 
-<iframe width="560" height="315" src="https://youtu.be/h9xav_e5E-g?si=sa9dRcNGvkea0YX4" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://youtu.be/Kez-a69PmYw?si=n7AmAvH1gUB1RvAD" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://youtu.be/lqbCLLoPEzM?si=x4Jzd0Su3FbrsJJ_" frameborder="0" allowfullscreen></iframe>
+[![Video 1](https://img.youtube.com/vi/h9xav_e5E-g/0.jpg)](https://youtu.be/h9xav_e5E-g?si=sa9dRcNGvkea0YX4)
+[![Video 2](https://img.youtube.com/vi/Kez-a69PmYw/0.jpg)](https://youtu.be/Kez-a69PmYw?si=n7AmAvH1gUB1RvAD)
+[![Video 3](https://img.youtube.com/vi/lqbCLLoPEzM/0.jpg)](https://youtu.be/lqbCLLoPEzM?si=x4Jzd0Su3FbrsJJ_)
 
 
 
