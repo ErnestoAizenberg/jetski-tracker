@@ -5,7 +5,7 @@
 
 Computer vision system for detecting and tracking jetskis in video streams using YOLOv8.
 
-![ tracking jetskies ](./docs/images/img_1.png) 
+![ tracking jetskies ](./docs/images/img_1.jpg) 
 
 
 ## Features
